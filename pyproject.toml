@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nadiya-cyber-org"
+version = "0.1.0"
+description = "nadiya-cyber-org: repository for Nadiya's cyber org code and data"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [ { name = "Your Name", email = "you@example.com" } ]
+keywords = ["nadiya", "cyber", "org"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+dependencies = [
+    "pydantic>=2.10.6",
+    "robora",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["library"]
+
+[tool.setuptools]
+# Allow packages to be discovered at the project root as well as in src/ or library/
+package-dir = {"" = "."}
+include-package-data = true
+
