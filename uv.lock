@@ -422,7 +422,7 @@ wheels = [
 
 [[package]]
 name = "robora"
-version = "0.0.1"
+version = "0.0.9"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "httpx" },
@@ -431,9 +431,9 @@ dependencies = [
     { name = "pydantic" },
     { name = "python-dotenv" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/26/3e/2531f833dd6224f72607b5dd4f8d3eb46dbf1ee9337d10918b90d5603bb7/robora-0.0.1.tar.gz", hash = "sha256:ddf5cc2d8221e45e418a58c4523bd1a964da92ab6b60d86f9f50fe0bfbd9be12", size = 12491, upload-time = "2025-09-24T17:37:54.391Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/3a/ee/46771bb45f3523080fcbd444da9a00079ec81eb47e5d36b565cd63b12bd0/robora-0.0.9.tar.gz", hash = "sha256:6b0c76d20af4ce1a82ed353fe69ab59857c5929e4428f799dce5ddde1849f469", size = 9183, upload-time = "2025-09-29T14:32:31.065Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/1e/1c/3ec4b884fdf827698756acdb9b5cd8b2a1d82e855744d31bc549c7900088/robora-0.0.1-py3-none-any.whl", hash = "sha256:cdd61b368b11ddd5102f3ee3a4e5e53337feb2255b7560ba1d515934a4bce557", size = 9718, upload-time = "2025-09-24T17:37:53.458Z" },
+    { url = "https://files.pythonhosted.org/packages/8f/a5/689ccc40f261328789f1604f109565fce95dcb999eb26ab6b937d82b6547/robora-0.0.9-py3-none-any.whl", hash = "sha256:959e6ceaaf76ed506f700014d64dce9685717a0a695170d4bdcc86271cb5d14e", size = 10072, upload-time = "2025-09-29T14:32:30.217Z" },
 ]
 
 [[package]]
