@@ -6,9 +6,8 @@ from datetime import date
 
 
 class ResponsibilityLevel(Enum):
-    """Level of cybersecurity responsibility"""
+    """Organization's level of cybersecurity responsibility"""
     HIGH = "HIGH"
-    MEDIUM = "MEDIUM"
     LOW = "LOW"
     NONE = "NONE"
 
@@ -22,12 +21,12 @@ class ConfidenceLevel(Enum):
 
 
 class CyberResponsibilityModel(BaseModel):
-    """Assessment of when and how the primary ministry/department became responsible for the country's cybersecurity governance, prevention, planning, response, or enforcement."""
+    """Assessment of when and how the organization became responsible for the country's cybersecurity governance, prevention, planning, response, or enforcement."""
 
     incarnation_name: Optional[str] = Field(
         default=None,
         description=(
-            "Name of the specific incarnation of the ministry/department "
+            "Name of the specific incarnation of the organization "
             "that became responsible for cybersecurity. "
             "If not applicable, return the current "
             "incarnation with ResponsibilityLevel.None."
@@ -67,11 +66,11 @@ _template = (
     "Assess the PRIMARY (i.e., most important) {domain} ministry/department of {country}. "
     "Do not consider small regulators or third parties. "
     "Regarding this organization's responsibility over {country}'s "
-    "cybersecurity governance, prevention, planning, response, or enforcement: "
+    "cybersecurity governance, prevention, planning, response, enforcement, coordination, or diplomacy: "
     "(1) What is the name of the specific organization?, "
-    "(2) When it became responsible (if applicable)?, "
-    "(3) What is the level of responsibility (none, low, medium, high)?, "
-    "(4) Provide explanation/evidence."
+    "(2) When did it become responsible (if applicable)?, "
+    "(3) How significant is this responsibility?, "
+    "(4) Provide explanation/evidence for prior answers."
 )
 
 
