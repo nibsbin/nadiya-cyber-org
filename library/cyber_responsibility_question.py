@@ -2,6 +2,7 @@ from typing import List, Optional, Dict
 from enum import Enum
 from pydantic import BaseModel, Field
 from robora import QuestionSet
+from datetime import date
 
 
 class ResponsibilityLevel(Enum):
@@ -21,22 +22,23 @@ class ConfidenceLevel(Enum):
 
 
 class CyberResponsibilityModel(BaseModel):
-    """Assessment of when and how a ministry/department became responsible for cybersecurity."""
+    """Assessment of when and how the primary ministry/department became responsible for the country's cybersecurity governance, prevention, planning, response, or enforcement."""
 
-    organ_incarnation_name: Optional[str] = Field(
+    incarnation_name: Optional[str] = Field(
         default=None,
         description=(
-            "Name of the specific organization/entity/incarnation of the ministry/department "
-            "that became responsible for cybersecurity. If not applicable, return the current "
+            "Name of the specific incarnation of the ministry/department "
+            "that became responsible for cybersecurity. "
+            "If not applicable, return the current "
             "incarnation with ResponsibilityLevel.None."
         ),
     )
 
-    responsible_date: Optional[str] = Field(
+    responsible_date: Optional[date] = Field(
         default=None,
         description=(
-            "Date (year or full date) when the organ incarnation became responsible for "
-            "or involved in cybersecurity. If not applicable, return null."
+            "Date when the organ incarnation became responsible for "
+            "cybersecurity. If not applicable, return null."
         ),
     )
 
@@ -62,12 +64,14 @@ if __name__ == "__main__":
 
 
 _template = (
-    "Assess the {domain} ministry/department of {country} as a cybersecurity stakeholder. "
-    "If it is responsible for or involved in cybersecurity, provide: "
-    "(1) the name of the specific organ/entity incarnation that became responsible, "
-    "(2) when it became responsible, "
-    "(3) the level of responsibility (none, low, medium, high), "
-    "(4) explanation with evidence."
+    "Assess the PRIMARY (i.e., most important) {domain} ministry/department of {country}. "
+    "Do not consider small regulators or third parties. "
+    "Regarding this organization's responsibility over {country}'s "
+    "cybersecurity governance, prevention, planning, response, or enforcement: "
+    "(1) What is the name of the specific organization?, "
+    "(2) When it became responsible (if applicable)?, "
+    "(3) What is the level of responsibility (none, low, medium, high)?, "
+    "(4) Provide explanation/evidence."
 )
 
 
