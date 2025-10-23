@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
 
 _template = (
-    "Assess the cybersecurity responsibility of {organization_country}. "
+    "Assess the cybersecurity responsibility of {organization_country}."
 )
 
 
