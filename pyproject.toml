@@ -18,7 +18,7 @@ classifiers = [
 ]
 dependencies = [
     "pydantic>=2.10.6",
-    "robora",
+    "robora==0.0.18",
 ]
 
 [project.optional-dependencies]
