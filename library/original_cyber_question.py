@@ -44,10 +44,10 @@ if __name__ == "__main__":
     print(OriginalCyberModel.model_json_schema())
 
 
-_template = (
-    "Regarding the top-level state Organ (i.e., ministry/department/agency) of {domain} in {country}: "
-    "when did the Organ become responsible for cybersecurity? If applicable, answer in the following schema: "
-)
+_template = """
+Regarding the top-level state Organ (i.e., ministry/department) of {domain} in {country}: "
+when did the Organ become responsible for cybersecurity?  A ministry handles cyber if it: Is explicitly mentioned in a national strategy/law/report as being responsible for cybersecurity policy, implementation, or technical coordination; Hosts a national CERT/CSIRT/CIRT; Leads or is a member of a cybersecurity committee, council, or working group; Oversees information security standards, network protection, or the like; Attends or participates in events, workshops, or press releases; Works with other countries or organizations on joint initiatives; and other possible forms. 
+"""
 
 
 def get_question_set(domains: List[str], countries: List[str]) -> QuestionSet:
