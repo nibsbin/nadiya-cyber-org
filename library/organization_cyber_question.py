@@ -21,7 +21,7 @@ class ConfidenceLevel(Enum):
 
 
 class OrganizationCyberModel(BaseModel):
-    """Assessment of how responsible for the country's cybersecurity governance, prevention, planning, response, or enforcement."""
+    """Assessment of how the organization is responsible for the country's cybersecurity governance, prevention, planning, response, or enforcement."""
 
     organization: str = Field(
         description="Name of the given top-level state Organ (i.e., ministry/department/agency)."
