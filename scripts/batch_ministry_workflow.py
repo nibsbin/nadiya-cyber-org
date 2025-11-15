@@ -90,16 +90,20 @@ class MinistryWorkflow:
                 await asyncio.sleep(delay)
 
         # Dump and flatten answers
+        # Note: dump_answers() retrieves ALL answers from the database (including cached ones)
         answers = []
         async for answer in workflow.dump_answers():
             answers.append(answer)
 
+        if not answers:
+            raise ValueError(f"No answers returned for {self.domain}. Check if questions were processed.")
+
         flattened = pd.concat([ans.flattened for ans in answers]).reset_index(drop=True)
         flattened.drop(columns=["enriched_citations"], inplace=True, errors='ignore')
 
-        # Save to CSV
+        # Save to CSV (mode='w' by default, overwrites existing file)
         csv_path = self.output_dir / f"organization_names_{self.domain.lower().replace(' ', '_')}.csv"
-        flattened.to_csv(csv_path, index=False)
+        flattened.to_csv(csv_path, index=False, mode='w')
         print(f"✓ Saved {len(flattened)} organizations to {csv_path}")
 
         return flattened
@@ -151,15 +155,19 @@ class MinistryWorkflow:
                 await asyncio.sleep(delay)
 
         # Dump and flatten answers
+        # Note: dump_answers() retrieves ALL answers from the database (including cached ones)
         answers = []
         async for answer in workflow.dump_answers():
             answers.append(answer)
 
+        if not answers:
+            raise ValueError(f"No answers returned for {self.domain} cybersecurity assessment. Check if questions were processed.")
+
         flattened = pd.concat([ans.flattened for ans in answers]).reset_index(drop=True)
 
-        # Save to Excel
+        # Save to Excel (overwrites existing file)
         xlsx_path = self.output_dir / f"organization_cyber_{self.domain.lower().replace(' ', '_')}.xlsx"
-        flattened.to_excel(xlsx_path, index=False)
+        flattened.to_excel(xlsx_path, index=False, engine='openpyxl')
         print(f"✓ Saved {len(flattened)} assessments to {xlsx_path}")
 
         return flattened
