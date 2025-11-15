@@ -83,6 +83,8 @@ Foreign Affairs • Education • Economy • Finance • Commerce • Transport
 - **Reusable:** Import and use in other scripts
 - **Tested:** Single source of truth
 - **Maintainable:** Fix once, applies everywhere
+- **Resilient:** Automatic retry with exponential backoff (2s, 4s, 8s, 16s)
+- **Sequential:** Processes domains one at a time to avoid rate limits
 
 ## 🔍 How It Works
 

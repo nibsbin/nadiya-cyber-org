@@ -6,6 +6,11 @@ This script automates the two-step process:
 1. Collect organization names for each ministry type across all countries
 2. Assess cybersecurity responsibility for each organization
 
+Features:
+- Sequential processing of domains (one at a time) to avoid rate limits
+- Automatic retry with exponential backoff (2s, 4s, 8s, 16s) for transient failures
+- Progress tracking and error reporting
+
 Usage:
     python scripts/batch_ministry_workflow.py --domains "Justice,Defense,Health"
     python scripts/batch_ministry_workflow.py --all-domains
@@ -29,7 +34,12 @@ from data import COUNTRIES, DOMAINS
 
 
 class MinistryWorkflow:
-    """Handles the complete workflow for a single ministry domain."""
+    """
+    Handles the complete workflow for a single ministry domain.
+
+    Includes automatic retry logic with exponential backoff (2s, 4s, 8s, 16s)
+    for handling rate limits and transient failures.
+    """
 
     def __init__(self, domain: str, output_dir: Path, workers: int = 4):
         self.domain = domain.strip().title()
@@ -38,7 +48,11 @@ class MinistryWorkflow:
         self.workers = workers
 
     async def step1_collect_organizations(self) -> pd.DataFrame:
-        """Step 1: Collect organization names for this domain across all countries."""
+        """
+        Step 1: Collect organization names for this domain across all countries.
+
+        Includes automatic retry with exponential backoff (up to 4 retries).
+        """
         print(f"\n{'='*60}")
         print(f"STEP 1: Collecting organizations for {self.domain}")
         print(f"{'='*60}")
@@ -59,8 +73,21 @@ class MinistryWorkflow:
         )
         question_set.max_questions = 0  # No limit
 
-        # Ask questions
-        await workflow.ask_multiple(question_set, return_results=False)
+        # Ask questions with retry logic
+        max_retries = 4
+        base_delay = 2.0
+        for attempt in range(max_retries + 1):
+            try:
+                await workflow.ask_multiple(question_set, return_results=False)
+                break  # Success, exit retry loop
+            except Exception as e:
+                if attempt == max_retries:
+                    print(f"❌ Step 1 failed after {max_retries} retries: {e}")
+                    raise
+                delay = base_delay * (2 ** attempt)
+                print(f"⚠️  Step 1 failed (attempt {attempt + 1}/{max_retries + 1}): {e}")
+                print(f"   Retrying in {delay}s...")
+                await asyncio.sleep(delay)
 
         # Dump and flatten answers
         answers = []
@@ -78,7 +105,11 @@ class MinistryWorkflow:
         return flattened
 
     async def step2_assess_cybersecurity(self, organizations_df: pd.DataFrame) -> pd.DataFrame:
-        """Step 2: Assess cybersecurity responsibility for each organization."""
+        """
+        Step 2: Assess cybersecurity responsibility for each organization.
+
+        Includes automatic retry with exponential backoff (up to 4 retries).
+        """
         print(f"\n{'='*60}")
         print(f"STEP 2: Assessing cybersecurity responsibility for {self.domain}")
         print(f"{'='*60}")
@@ -103,8 +134,21 @@ class MinistryWorkflow:
         )
         question_set.max_questions = 0  # No limit
 
-        # Ask questions
-        await workflow.ask_multiple(question_set, return_results=False)
+        # Ask questions with retry logic
+        max_retries = 4
+        base_delay = 2.0
+        for attempt in range(max_retries + 1):
+            try:
+                await workflow.ask_multiple(question_set, return_results=False)
+                break  # Success, exit retry loop
+            except Exception as e:
+                if attempt == max_retries:
+                    print(f"❌ Step 2 failed after {max_retries} retries: {e}")
+                    raise
+                delay = base_delay * (2 ** attempt)
+                print(f"⚠️  Step 2 failed (attempt {attempt + 1}/{max_retries + 1}): {e}")
+                print(f"   Retrying in {delay}s...")
+                await asyncio.sleep(delay)
 
         # Dump and flatten answers
         answers = []
