@@ -59,8 +59,6 @@ class MinistryWorkflow:
         )
         question_set.max_questions = 0  # No limit
 
-        print(f"Processing {len(question_set.question_list)} questions...")
-
         # Ask questions
         await workflow.ask_multiple(question_set, return_results=False)
 
@@ -104,8 +102,6 @@ class MinistryWorkflow:
             countries=countries,
         )
         question_set.max_questions = 0  # No limit
-
-        print(f"Processing {len(question_set.question_list)} questions...")
 
         # Ask questions
         await workflow.ask_multiple(question_set, return_results=False)
