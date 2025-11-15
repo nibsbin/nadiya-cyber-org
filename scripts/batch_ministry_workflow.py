@@ -58,11 +58,7 @@ class MinistryWorkflow:
         print(f"{'='*60}")
 
         # Setup storage and workflow
-        # Delete existing database to avoid accumulating results from previous runs
         db_path = self.output_dir / "organization.db"
-        if db_path.exists():
-            db_path.unlink()
-            print(f"🗑️  Deleted existing database to start fresh")
         storage = SQLiteStorageProvider(str(db_path))
         workflow = Workflow(
             SonarQueryHandler(OrganizationModel),
@@ -77,12 +73,14 @@ class MinistryWorkflow:
         )
         question_set.max_questions = 0  # No limit
 
-        # Ask questions with retry logic
+        # Ask questions with retry logic, capturing only NEW answers from this run
         max_retries = 4
         base_delay = 2.0
+        answers = []
         for attempt in range(max_retries + 1):
             try:
-                await workflow.ask_multiple(question_set, return_results=False)
+                # return_results=True gives us only the NEW answers from this run
+                answers = await workflow.ask_multiple(question_set, return_results=True)
                 break  # Success, exit retry loop
             except Exception as e:
                 if attempt == max_retries:
@@ -92,12 +90,6 @@ class MinistryWorkflow:
                 print(f"⚠️  Step 1 failed (attempt {attempt + 1}/{max_retries + 1}): {e}")
                 print(f"   Retrying in {delay}s...")
                 await asyncio.sleep(delay)
-
-        # Dump and flatten answers
-        # Note: dump_answers() retrieves ALL answers from the database (including cached ones)
-        answers = []
-        async for answer in workflow.dump_answers():
-            answers.append(answer)
 
         if not answers:
             raise ValueError(f"No answers returned for {self.domain}. Check if questions were processed.")
@@ -123,11 +115,7 @@ class MinistryWorkflow:
         print(f"{'='*60}")
 
         # Setup storage and workflow
-        # Delete existing database to avoid accumulating results from previous runs
         db_path = self.output_dir / "organization_cyber.db"
-        if db_path.exists():
-            db_path.unlink()
-            print(f"🗑️  Deleted existing database to start fresh")
         storage = SQLiteStorageProvider(str(db_path))
         workflow = Workflow(
             SonarQueryHandler(OrganizationCyberModel),
@@ -146,12 +134,14 @@ class MinistryWorkflow:
         )
         question_set.max_questions = 0  # No limit
 
-        # Ask questions with retry logic
+        # Ask questions with retry logic, capturing only NEW answers from this run
         max_retries = 4
         base_delay = 2.0
+        answers = []
         for attempt in range(max_retries + 1):
             try:
-                await workflow.ask_multiple(question_set, return_results=False)
+                # return_results=True gives us only the NEW answers from this run
+                answers = await workflow.ask_multiple(question_set, return_results=True)
                 break  # Success, exit retry loop
             except Exception as e:
                 if attempt == max_retries:
@@ -161,12 +151,6 @@ class MinistryWorkflow:
                 print(f"⚠️  Step 2 failed (attempt {attempt + 1}/{max_retries + 1}): {e}")
                 print(f"   Retrying in {delay}s...")
                 await asyncio.sleep(delay)
-
-        # Dump and flatten answers
-        # Note: dump_answers() retrieves ALL answers from the database (including cached ones)
-        answers = []
-        async for answer in workflow.dump_answers():
-            answers.append(answer)
 
         if not answers:
             raise ValueError(f"No answers returned for {self.domain} cybersecurity assessment. Check if questions were processed.")
