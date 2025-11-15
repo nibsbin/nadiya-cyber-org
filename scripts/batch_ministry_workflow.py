@@ -138,15 +138,28 @@ class MinistryWorkflow:
 
 
 async def run_batch_workflow(domains: List[str], output_dir: Path, workers: int = 4):
-    """Run the workflow for multiple domains."""
+    """
+    Run the workflow for multiple domains SEQUENTIALLY (one at a time).
+
+    IMPORTANT: Domains are processed one at a time to avoid rate limits.
+    Within each domain, questions are processed in parallel using 'workers' threads.
+
+    Args:
+        domains: List of domain names to process
+        output_dir: Directory for outputs
+        workers: Number of parallel workers PER DOMAIN (default: 4)
+    """
     print(f"\n{'#'*60}")
     print(f"# BATCH MINISTRY WORKFLOW")
-    print(f"# Processing {len(domains)} domains")
+    print(f"# Processing {len(domains)} domains SEQUENTIALLY")
+    print(f"# Workers per domain: {workers}")
     print(f"# Output directory: {output_dir}")
     print(f"{'#'*60}")
+    print(f"\nNote: Domains processed one at a time to avoid rate limits.")
 
     results = {}
 
+    # Process domains SEQUENTIALLY (one at a time) to avoid rate limits
     for i, domain in enumerate(domains, 1):
         print(f"\n[{i}/{len(domains)}] Processing domain: {domain}")
 
