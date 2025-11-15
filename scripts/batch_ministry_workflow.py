@@ -58,7 +58,11 @@ class MinistryWorkflow:
         print(f"{'='*60}")
 
         # Setup storage and workflow
+        # Delete existing database to avoid accumulating results from previous runs
         db_path = self.output_dir / "organization.db"
+        if db_path.exists():
+            db_path.unlink()
+            print(f"🗑️  Deleted existing database to start fresh")
         storage = SQLiteStorageProvider(str(db_path))
         workflow = Workflow(
             SonarQueryHandler(OrganizationModel),
@@ -119,7 +123,11 @@ class MinistryWorkflow:
         print(f"{'='*60}")
 
         # Setup storage and workflow
+        # Delete existing database to avoid accumulating results from previous runs
         db_path = self.output_dir / "organization_cyber.db"
+        if db_path.exists():
+            db_path.unlink()
+            print(f"🗑️  Deleted existing database to start fresh")
         storage = SQLiteStorageProvider(str(db_path))
         workflow = Workflow(
             SonarQueryHandler(OrganizationCyberModel),
