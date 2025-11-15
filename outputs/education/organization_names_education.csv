@@ -1,0 +1,194 @@
+question,error,domain,country,organization_name,confidence
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ALGERIA?",,EDUCATION,ALGERIA,Ministry of National Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BAHRAIN?",,EDUCATION,BAHRAIN,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in EL SALVADOR?",,EDUCATION,EL SALVADOR,"Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CAMEROON?",,EDUCATION,CAMEROON,"Ministry of Basic Education (MINEDUB), Ministry of Secondary Education (MINESEC), and Ministry of Higher Education (MINESUP)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MOROCCO?",,EDUCATION,MOROCCO,"Ministry of National Education, Preschool and Sports",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in JAPAN?",,EDUCATION,JAPAN,"Ministry of Education, Culture, Sports, Science and Technology (MEXT)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SAO TOME & PRINCIPE?",,EDUCATION,SAO TOME & PRINCIPE,Ministry of Education and Higher Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in TUVALU?",,EDUCATION,TUVALU,"Ministry of Education, Youth and Sports",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BAHAMAS (THE)?",,EDUCATION,BAHAMAS (THE),Ministry of Education and Technical and Vocational Training,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CAMBODIA?",,EDUCATION,CAMBODIA,"Ministry of Education, Youth and Sport",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in JORDAN?",,EDUCATION,JORDAN,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in EQUATORIAL GUINEA?",,EDUCATION,EQUATORIAL GUINEA,"Ministry of Education, Higher Education, and Sports",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MOZAMBIQUE?",,EDUCATION,MOZAMBIQUE,Ministry of Education and Human Development,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SAUDI ARABIA?",,EDUCATION,SAUDI ARABIA,Ministry of Education of Saudi Arabia,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in AFGHANISTAN?",,EDUCATION,AFGHANISTAN,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in UGANDA?",,EDUCATION,UGANDA,Ministry of Education and Sports,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CABO VERDE?",,EDUCATION,CABO VERDE,Ministry of Education of Cabo Verde,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ERITREA?",,EDUCATION,ERITREA,Ministry of Education of Eritrea,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MYANMAR?",,EDUCATION,MYANMAR,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in KAZAKHSTAN?",,EDUCATION,KAZAKHSTAN,Ministry of Education of the Republic of Kazakhstan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in UKRAINE?",,EDUCATION,UKRAINE,Ministry of Education and Science of Ukraine,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SENEGAL?",,EDUCATION,SENEGAL,Ministry of National Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BURUNDI?",,EDUCATION,BURUNDI,Ministry of National Education and Scientific Research,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in KENYA?",,EDUCATION,KENYA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ESTONIA?",,EDUCATION,ESTONIA,Ministry of Education and Research,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SERBIA?",,EDUCATION,SERBIA,"Ministry of Education, Science and Technological Development",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in NAMIBIA?",,EDUCATION,NAMIBIA,"Ministry of Education, Arts and Culture",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BURKINA FASO?",,EDUCATION,BURKINA FASO,"Ministry of National Education, Literacy and Promotion of National Languages",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in UNITED ARAB EMIRATES?",,EDUCATION,UNITED ARAB EMIRATES,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ESWATINI?",,EDUCATION,ESWATINI,Ministry of Education and Training of Eswatini,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in KIRIBATI?",,EDUCATION,KIRIBATI,"Ministry of Education, Youth and Sport Development",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in NAURU?",,EDUCATION,NAURU,Department of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SEYCHELLES?",,EDUCATION,SEYCHELLES,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in UNITED KINGDOM?",,EDUCATION,UNITED KINGDOM,Department for Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in AUSTRIA?",,EDUCATION,AUSTRIA,"Federal Ministry of Education, Science and Research (Bundesministerium für Bildung, Wissenschaft und Forschung - BMBWF)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ETHIOPIA?",,EDUCATION,ETHIOPIA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BULGARIA?",,EDUCATION,BULGARIA,Ministry of Education and Science,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in KUWAIT?",,EDUCATION,KUWAIT,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in NEPAL?",,EDUCATION,NEPAL,"Ministry of Education, Science and Technology (MoEST)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SIERRA LEONE?",,EDUCATION,SIERRA LEONE,Ministry of Basic and Senior Secondary Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in UNITED STATES?",,EDUCATION,UNITED STATES,United States Department of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ARMENIA?",,EDUCATION,ARMENIA,"Ministry of Education, Science, Culture and Sports of the Republic of Armenia",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BARBADOS?",,EDUCATION,BARBADOS,"Ministry of Education, Technological and Vocational Training",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CHAD?",,EDUCATION,CHAD,Ministry of National Education and Civic Promotion,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in FIJI?",,EDUCATION,FIJI,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in KYRGYZSTAN?",,EDUCATION,KYRGYZSTAN,Ministry of Education of the Kyrgyz Republic,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in NETHERLANDS?",,EDUCATION,NETHERLANDS,"Ministry of Education, Culture and Science",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SINGAPORE?",,EDUCATION,SINGAPORE,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in URUGUAY?",,EDUCATION,URUGUAY,Ministry of Education and Culture (Ministerio de Educación y Cultura),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BRAZIL?",,EDUCATION,BRAZIL,"Ministry of Education of Brazil (Ministério da Educação, MEC)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in FINLAND?",,EDUCATION,FINLAND,Ministry of Education and Culture,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in LAOS?",,EDUCATION,LAOS,Ministry of Education and Sports,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in NEW ZEALAND?",,EDUCATION,NEW ZEALAND,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SLOVAKIA?",,EDUCATION,SLOVAKIA,"Ministry of Education, Research, Development and Youth of the Slovak Republic",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in UZBEKISTAN?",,EDUCATION,UZBEKISTAN,Ministry of preschool and school education of the Republic of Uzbekistan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BRUNEI?",,EDUCATION,BRUNEI,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in FRANCE?",,EDUCATION,FRANCE,Ministry of National Education and Youth,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in LATVIA?",,EDUCATION,LATVIA,Ministry of Education and Science of Latvia,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in NICARAGUA?",,EDUCATION,NICARAGUA,"Ministry of Education, Culture and Sports (Ministerio de Educación, Cultura y Deportes, MECD)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SLOVENIA?",,EDUCATION,SLOVENIA,"Ministry of Education, Science and Sport",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in VANUATU?",,EDUCATION,VANUATU,Ministry of Education and Training,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BOSNIA AND HERZEGOVINA?",,EDUCATION,BOSNIA AND HERZEGOVINA,Ministry of Civil Affairs of Bosnia and Herzegovina,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GABON?",,EDUCATION,GABON,Ministry of National Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in LEBANON?",,EDUCATION,LEBANON,Ministry of Education and Higher Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in NIGER?",,EDUCATION,NIGER,Ministry of National Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SOLOMON  ISLANDS?",,EDUCATION,SOLOMON  ISLANDS,Ministry of Education and Human Resources Development,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in VENEZUELA?",,EDUCATION,VENEZUELA,Ministry of Popular Power for Education (Ministerio del Poder Popular para la Educación),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GAMBIA?",,EDUCATION,GAMBIA,Ministry of Basic and Secondary Education (MoBSE),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BOTSWANA?",,EDUCATION,BOTSWANA,Ministry of Education and Skills Development,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BANGLADESH?",,EDUCATION,BANGLADESH,Ministry of Education of Bangladesh,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in LESOTHO?",,EDUCATION,LESOTHO,Ministry of Education and Training,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in NIGERIA?",,EDUCATION,NIGERIA,Federal Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in VIETNAM?",,EDUCATION,VIETNAM,Ministry of Education and Training (MOET),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SOMALIA?",,EDUCATION,SOMALIA,"Ministry of Education, Culture and Higher Education of Somalia",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in AZERBAIJAN?",,EDUCATION,AZERBAIJAN,Ministry of Science and Education of the Republic of Azerbaijan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CONGO?",,EDUCATION,CONGO,"Ministry of Primary, Secondary and Vocational Education",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in LIBERIA?",,EDUCATION,LIBERIA,Ministry of Education (MoE),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GEORGIA?",,EDUCATION,GEORGIA,"Ministry of Education, Science and Youth of Georgia",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SOUTH AFRICA?",,EDUCATION,SOUTH AFRICA,Department of Basic Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in NORTH MACEDONIA?",,EDUCATION,NORTH MACEDONIA,Ministry of Education and Science,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ARGENTINA?",,EDUCATION,ARGENTINA,Ministry of Human Capital,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in YEMEN?",,EDUCATION,YEMEN,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CÔTE D'IVOIRE?",,EDUCATION,CÔTE D'IVOIRE,Ministère de l'Éducation nationale et de l'Alphabétisation,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GERMANY?",,EDUCATION,GERMANY,"Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung, BMBF)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in LIBYA?",,EDUCATION,LIBYA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in NORWAY?",,EDUCATION,NORWAY,Ministry of Education and Research (Norway),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SOUTH KOREA?",,EDUCATION,SOUTH KOREA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ZAMBIA?",,EDUCATION,ZAMBIA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ANTIGUA AND BARBUDA?",,EDUCATION,ANTIGUA AND BARBUDA,"Ministry of Education, Sports and Creative Industries",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BOLIVIA?",,EDUCATION,BOLIVIA,Ministry of Education of Bolivia (Ministerio de Educación),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GHANA?",,EDUCATION,GHANA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in LIECHTENSTEIN?",,EDUCATION,LIECHTENSTEIN,Ministry of Infrastructure and Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SOUTH SUDAN?",,EDUCATION,SOUTH SUDAN,Ministry of General Education and Instruction (MOGEI),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in OMAN?",,EDUCATION,OMAN,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GREECE?",,EDUCATION,GREECE,Ministry of Education and Religious Affairs of Greece,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ZIMBABWE?",,EDUCATION,ZIMBABWE,Ministry of Primary and Secondary Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BHUTAN?",,EDUCATION,BHUTAN,Ministry of Education and Skills Development (MoESD),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in AUSTRALIA?",,EDUCATION,AUSTRALIA,Department of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in LITHUANIA?",,EDUCATION,LITHUANIA,"Ministry of Education, Science and Sport of the Republic of Lithuania",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in PAKISTAN?",,EDUCATION,PAKISTAN,Ministry of Federal Education and Professional Training,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SPAIN?",,EDUCATION,SPAIN,"Ministry of Education, Vocational Training and Sports",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ANGOLA?",,EDUCATION,ANGOLA,Ministry of Education (Ministério da Educação),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GRENADA?",,EDUCATION,GRENADA,Ministry of Education and Human Resource Development,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BENIN?",,EDUCATION,BENIN,"Ministry of Primary and Secondary Education (Ministère de l'Enseignement Maternel, Primaire et Secondaire) of Benin",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in PALAU?",,EDUCATION,PALAU,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in LUXEMBOURG?",,EDUCATION,LUXEMBOURG,"Ministry of Education, Children and Youth (Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SRI LANKA?",,EDUCATION,SRI LANKA,"Ministry of Education, Higher Education and Vocational Education",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in COMOROS?",,EDUCATION,COMOROS,"Ministry of National Education, Higher Education and Scientific Research",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MADAGASCAR?",,EDUCATION,MADAGASCAR,"Ministry of National Education (Ministère de l'Éducation Nationale, MEN)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GUATEMALA?",,EDUCATION,GUATEMALA,Ministry of Education (Ministerio de Educación or MINEDUC),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SUDAN?",,EDUCATION,SUDAN,Federal Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in PANAMA?",,EDUCATION,PANAMA,"Ministry of Education (Ministerio de Educación, MEDUCA)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GUINEA?",,EDUCATION,GUINEA,Ministry of Pre-University Education and Literacy,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BELIZE?",,EDUCATION,BELIZE,"Ministry of Education, Science and Technology",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in PAPUA NEW GUINEA?",,EDUCATION,PAPUA NEW GUINEA,Department of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MALAWI?",,EDUCATION,MALAWI,"Ministry of Education, Science and Technology of Malawi",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SURINAME?",,EDUCATION,SURINAME,"Ministry of Education, Science and Culture",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GUINEA-BISSAU?",,EDUCATION,GUINEA-BISSAU,Ministry of National Education and Higher Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BELGIUM?",,EDUCATION,BELGIUM,Flemish Ministry of Education and Training,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in COLOMBIA?",,EDUCATION,COLOMBIA,Ministerio de Educación Nacional,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MALAYSIA?",,EDUCATION,MALAYSIA,Ministry of Education Malaysia,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in PARAGUAY?",,EDUCATION,PARAGUAY,Ministry of Education and Science of Paraguay,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in BELARUS?",,EDUCATION,BELARUS,Ministry of Education of the Republic of Belarus,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SWEDEN?",,EDUCATION,SWEDEN,Ministry of Education and Research,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MALDIVES?",,EDUCATION,MALDIVES,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in PERU?",,EDUCATION,PERU,"Ministry of Education of Peru (Ministerio de Educación, MINEDU)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SWITZERLAND?",,EDUCATION,SWITZERLAND,"Federal Department of Economic Affairs, Education and Research (EAER)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in GUYANA?",,EDUCATION,GUYANA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CROATIA?",,EDUCATION,CROATIA,"Ministry of Science, Education and Youth of Croatia",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in HAITI?",,EDUCATION,HAITI,Ministry of National Education and Vocational Training (Ministère de l'Éducation Nationale et de la Formation Professionnelle - MENFP),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MALI?",,EDUCATION,MALI,Ministère de l'Éducation Nationale,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in PHILIPPINES?",,EDUCATION,PHILIPPINES,Department of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SYRIA?",,EDUCATION,SYRIA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in COSTA RICA?",,EDUCATION,COSTA RICA,Ministerio de Educación Pública,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in HONDURAS?",,EDUCATION,HONDURAS,Ministry of Education of Honduras / Secretaría de Educación,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in POLAND?",,EDUCATION,POLAND,Ministry of National Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MALTA?",,EDUCATION,MALTA,"Ministry for Education, Sport, Youth, Research and Innovation",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in TAJIKISTAN?",,EDUCATION,TAJIKISTAN,Ministry of Education and Science of the Republic of Tajikistan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in HUNGARY?",,EDUCATION,HUNGARY,Ministry of Human Capacities,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ANDORRA?",,EDUCATION,ANDORRA,Ministry of Education and Youth (Ministeri d'Educacio i Joventut),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CUBA?",,EDUCATION,CUBA,Ministry of Education of Cuba,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in PORTUGAL?",,EDUCATION,PORTUGAL,Ministry of Education (Ministério da Educação),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MARSHALL ISLANDS?",,EDUCATION,MARSHALL ISLANDS,"Ministry of Education, Sports and Training",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in TANZANIA?",,EDUCATION,TANZANIA,"Ministry of Education, Science and Technology",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CYPRUS?",,EDUCATION,CYPRUS,"Ministry of Education, Sport and Youth",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MAURITANIA?",,EDUCATION,MAURITANIA,Ministry of National Education and Professional Training,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ICELAND?",,EDUCATION,ICELAND,Ministry of Education and Children,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in QATAR?",,EDUCATION,QATAR,Ministry of Education and Higher Education (MOEHE),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in THAILAND?",,EDUCATION,THAILAND,Ministry of Education (Thailand),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CZECH REPUBLIC?",,EDUCATION,CZECH REPUBLIC,"Ministry of Education, Youth and Sports (Ministerstvo školství, mládeže a tělovýchovy České republiky)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CHILE?",,EDUCATION,CHILE,Ministerio de Educación (Ministry of Education) of Chile,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MAURITIUS?",,EDUCATION,MAURITIUS,"Ministry of Education, Tertiary Education, Science and Technology",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in INDIA?",,EDUCATION,INDIA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in TIMOR-LESTE?",,EDUCATION,TIMOR-LESTE,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ROMANIA?",,EDUCATION,ROMANIA,Ministry of Education and Research,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA?",,EDUCATION,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,Ministry of Education of the Democratic People's Republic of Korea,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ECUADOR?",,EDUCATION,ECUADOR,Ministry of Education (Ministerio de Educación),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in INDONESIA?",,EDUCATION,INDONESIA,Ministry of Primary and Secondary Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MEXICO?",,EDUCATION,MEXICO,"Secretariat of Public Education (Secretaría de Educación Pública, SEP)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in RUSSIA?",,EDUCATION,RUSSIA,Ministry of Education of the Russian Federation,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in TOGO?",,EDUCATION,TOGO,"Ministry of Primary, Secondary, Technical and Vocational Education",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ALBANIA?",,EDUCATION,ALBANIA,Ministry of Education and Sports,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in DEMOCRATIC REPUBLIC OF THE CONGO?",,EDUCATION,DEMOCRATIC REPUBLIC OF THE CONGO,"Ministry of Primary, Secondary and Vocational Education (Ministère de l'Enseignement Primaire, Secondaire et Professionnel - MEPSP)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in EGYPT?",,EDUCATION,EGYPT,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in IRAN?",,EDUCATION,IRAN,Ministry of Education of Iran,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MICRONESIA?",,EDUCATION,MICRONESIA,FSM Department of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in RWANDA?",,EDUCATION,RWANDA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in TONGA?",,EDUCATION,TONGA,Ministry of Education and Training,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in DENMARK?",,EDUCATION,DENMARK,Ministry of Children and Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in IRAQ?",,EDUCATION,IRAQ,Ministry of Education (Iraq),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MOLDOVA?",,EDUCATION,MOLDOVA,Ministry of Education and Research of the Republic of Moldova,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SAINT KITTS AND NEVIS?",,EDUCATION,SAINT KITTS AND NEVIS,"Ministry of Education, Youth, Social Development, Gender Affairs, Aging and Disabilities",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in TRINIDAD AND TOBAGO?",,EDUCATION,TRINIDAD AND TOBAGO,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CHINA?",,EDUCATION,CHINA,Ministry of Education of the People's Republic of China,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in DJIBOUTI?",,EDUCATION,DJIBOUTI,Ministry of National Education and Vocational Training (Ministère de l'Éducation Nationale et de la Formation Professionnelle),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MONACO?",,EDUCATION,MONACO,"Department of Education, Youth and Sport",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in IRELAND?",,EDUCATION,IRELAND,Department of Education and Youth,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in TUNISIA?",,EDUCATION,TUNISIA,Ministry of Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SAINT LUCIA?",,EDUCATION,SAINT LUCIA,"Ministry of Education, Sustainable Development, Innovation, Science, Technology and Vocational Training",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in DOMINICA?",,EDUCATION,DOMINICA,Ministry of Education and Human Resource Development,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ISRAEL?",,EDUCATION,ISRAEL,Ministry of Education of Israel,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MONGOLIA?",,EDUCATION,MONGOLIA,Ministry of Education and Science of Mongolia,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SAINT VINCENT AND THE GRENADINES?",,EDUCATION,SAINT VINCENT AND THE GRENADINES,Ministry of Education and National Reconciliation,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in TURKEY?",,EDUCATION,TURKEY,Ministry of National Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CENTRAL AFRICAN REPUBLIC?",,EDUCATION,CENTRAL AFRICAN REPUBLIC,Ministry of National Education,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in DOMINICAN REPUBLIC?",,EDUCATION,DOMINICAN REPUBLIC,Ministry of Education of the Dominican Republic (MINERD),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in ITALY?",,EDUCATION,ITALY,Ministry of Education and Merit (Ministero dell'Istruzione e del Merito - MIM),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in MONTENEGRO?",,EDUCATION,MONTENEGRO,"Ministry of Education, Science and Innovation",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SAMOA?",,EDUCATION,SAMOA,"Ministry of Education, Sports and Culture",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in CANADA?",,EDUCATION,CANADA,NONE,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in TURKMENISTAN?",,EDUCATION,TURKMENISTAN,Ministry of Education of Turkmenistan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in JAMAICA?",,EDUCATION,JAMAICA,"Ministry of Education, Skills, Youth & Information",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for EDUCATION in SAN MARINO?",,EDUCATION,SAN MARINO,"Segreteria di Stato per l'Istruzione e la Cultura, l'Università e la Ricerca Scientifica, le Politiche Giovanili",ConfidenceLevel.HIGH

@@ -1,429 +1,194 @@
 question,error,domain,country,organization_name,confidence
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DEMOCRATIC REPUBLIC OF THE CONGO?",,DEFENSE,DEMOCRATIC REPUBLIC OF THE CONGO,Ministry of Defence and Veterans Affairs of the Democratic Republic of the Congo,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in INDIA?",,DEFENSE,INDIA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MAURITIUS?",,DEFENSE,MAURITIUS,"Ministry of Defence, Home Affairs and External Communications",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BARBADOS?",,DEFENSE,BARBADOS,Prime Minister's Office,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TIMOR-LESTE?",,DEFENSE,TIMOR-LESTE,Ministry of Defense of Timor-Leste,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ROMANIA?",,DEFENSE,ROMANIA,Ministry of National Defence (Ministerul Apărării Naționale),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELARUS?",,DEFENSE,BELARUS,Ministry of Defense of the Republic of Belarus,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DENMARK?",,DEFENSE,DENMARK,Ministry of Defence (Denmark),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in INDONESIA?",,DEFENSE,INDONESIA,Ministry of Defense of the Republic of Indonesia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MEXICO?",,DEFENSE,MEXICO,Secretaría de la Defensa Nacional (SEDENA),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in RUSSIA?",,DEFENSE,RUSSIA,Ministry of Defence of the Russian Federation,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TOGO?",,DEFENSE,TOGO,Ministry of Armed Forces (Ministère des Forces Armées) of Togo,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in IRAN?",,DEFENSE,IRAN,Ministry of Defence and Armed Forces Logistics (MODAFL),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELGIUM?",,DEFENSE,BELGIUM,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DJIBOUTI?",,DEFENSE,DJIBOUTI,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MICRONESIA?",,DEFENSE,MICRONESIA,Department of Justice,ConfidenceLevel.MEDIUM
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DOMINICA?",,DEFENSE,DOMINICA,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in RWANDA?",,DEFENSE,RWANDA,Ministry of Defence (Rwanda),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TONGA?",,DEFENSE,TONGA,Ministry for His Majesty's Armed Forces,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELIZE?",,DEFENSE,BELIZE,Ministry of National Defence and Border Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TRINIDAD AND TOBAGO?",,DEFENSE,TRINIDAD AND TOBAGO,Ministry of National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MOLDOVA?",,DEFENSE,MOLDOVA,Ministry of Defense of the Republic of Moldova,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in IRAQ?",,DEFENSE,IRAQ,Ministry of Defence (Iraq),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAINT KITTS AND NEVIS?",,DEFENSE,SAINT KITTS AND NEVIS,Ministry of National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BENIN?",,DEFENSE,BENIN,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in IRELAND?",,DEFENSE,IRELAND,Department of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DOMINICAN REPUBLIC?",,DEFENSE,DOMINICAN REPUBLIC,Ministry of Defense of the Dominican Republic,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONACO?",,DEFENSE,MONACO,Ministry of Interior,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TUNISIA?",,DEFENSE,TUNISIA,Ministry of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BHUTAN?",,DEFENSE,BHUTAN,Ministry of Home and Cultural Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAINT LUCIA?",,DEFENSE,SAINT LUCIA,"Ministry of Home Affairs, Crime Prevention, and Persons with Disabilities",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ECUADOR?",,DEFENSE,ECUADOR,Ministry of National Defense of the Republic of Ecuador,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ISRAEL?",,DEFENSE,ISRAEL,Ministry of Defense of Israel,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONGOLIA?",,DEFENSE,MONGOLIA,Ministry of Defence of Mongolia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TURKEY?",,DEFENSE,TURKEY,Ministry of National Defense (Millî Savunma Bakanlığı),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in EGYPT?",,DEFENSE,EGYPT,Ministry of Defence and Military Production,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAINT VINCENT AND THE GRENADINES?",,DEFENSE,SAINT VINCENT AND THE GRENADINES,"Ministry of National Security, Air and Sea Port Development",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ITALY?",,DEFENSE,ITALY,Ministry of Defence (Ministero della Difesa),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BOLIVIA?",,DEFENSE,BOLIVIA,Ministry of Defense of Bolivia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONTENEGRO?",,DEFENSE,MONTENEGRO,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAMOA?",,DEFENSE,SAMOA,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TURKMENISTAN?",,DEFENSE,TURKMENISTAN,Ministry of Defense of Turkmenistan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in JAPAN?",,DEFENSE,JAPAN,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BOSNIA AND HERZEGOVINA?",,DEFENSE,BOSNIA AND HERZEGOVINA,Ministry of Defence of Bosnia and Herzegovina,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in EL SALVADOR?",,DEFENSE,EL SALVADOR,Ministerio de la Defensa Nacional,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MOROCCO?",,DEFENSE,MOROCCO,Minister Delegate to the Head of Government in charge of the Administration of National Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BRUNEI?",,DEFENSE,BRUNEI,Ministry of Defence (Brunei Darussalam),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MYANMAR?",,DEFENSE,MYANMAR,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BRAZIL?",,DEFENSE,BRAZIL,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAUDI ARABIA?",,DEFENSE,SAUDI ARABIA,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UKRAINE?",,DEFENSE,UKRAINE,Ministry of Defense of Ukraine,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MOZAMBIQUE?",,DEFENSE,MOZAMBIQUE,Ministry of National Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ANDORRA?",,DEFENSE,ANDORRA,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SENEGAL?",,DEFENSE,SENEGAL,Ministère des Forces Armées,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ERITREA?",,DEFENSE,ERITREA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BOTSWANA?",,DEFENSE,BOTSWANA,"Ministry of Defence, Justice and Security",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in JORDAN?",,DEFENSE,JORDAN,Ministry of Defence (Jordan),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SERBIA?",,DEFENSE,SERBIA,Ministry of Defence (Ministarstvo odbrane),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in EQUATORIAL GUINEA?",,DEFENSE,EQUATORIAL GUINEA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KAZAKHSTAN?",,DEFENSE,KAZAKHSTAN,Ministry of Defense of the Republic of Kazakhstan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAO TOME & PRINCIPE?",,DEFENSE,SAO TOME & PRINCIPE,Ministry of Defense and Internal Order,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TUVALU?",,DEFENSE,TUVALU,"Ministry of Justice, Communication & Foreign Affairs",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KENYA?",,DEFENSE,KENYA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UGANDA?",,DEFENSE,UGANDA,Ministry of Defence and Veteran Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NAMIBIA?",,DEFENSE,NAMIBIA,Ministry of Defence and Veteran Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CHILE?",,DEFENSE,CHILE,Ministry of National Defense of Chile (Ministerio de Defensa Nacional),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SEYCHELLES?",,DEFENSE,SEYCHELLES,Office of the President of Seychelles,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NAURU?",,DEFENSE,NAURU,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ESWATINI?",,DEFENSE,ESWATINI,Ministry of National Defence and Security of the Kingdom of Eswatini,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UNITED ARAB EMIRATES?",,DEFENSE,UNITED ARAB EMIRATES,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KIRIBATI?",,DEFENSE,KIRIBATI,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NEPAL?",,DEFENSE,NEPAL,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UNITED STATES?",,DEFENSE,UNITED STATES,United States Department of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KUWAIT?",,DEFENSE,KUWAIT,Ministry of Defense (Kuwait),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KYRGYZSTAN?",,DEFENSE,KYRGYZSTAN,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in FIJI?",,DEFENSE,FIJI,Ministry of Defence and National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UNITED KINGDOM?",,DEFENSE,UNITED KINGDOM,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SIERRA LEONE?",,DEFENSE,SIERRA LEONE,Ministry of Defence and National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ETHIOPIA?",,DEFENSE,ETHIOPIA,Ministry of Defense (Ethiopia),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BULGARIA?",,DEFENSE,BULGARIA,Ministry of Defense of Bulgaria,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ESTONIA?",,DEFENSE,ESTONIA,Ministry of Defence of the Republic of Estonia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CHAD?",,DEFENSE,CHAD,Ministry of Defense of Chad,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LATVIA?",,DEFENSE,LATVIA,Ministry of Defence of the Republic of Latvia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LAOS?",,DEFENSE,LAOS,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UZBEKISTAN?",,DEFENSE,UZBEKISTAN,Ministry of Defense of the Republic of Uzbekistan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BURUNDI?",,DEFENSE,BURUNDI,Ministry of National Defense and Veterans Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ARMENIA?",,DEFENSE,ARMENIA,Ministry of Defense of the Republic of Armenia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SLOVENIA?",,DEFENSE,SLOVENIA,Ministry of Defence of Slovenia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SINGAPORE?",,DEFENSE,SINGAPORE,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NICARAGUA?",,DEFENSE,NICARAGUA,"Ministry of Defense (Ministerio de Defensa, MIDEF)",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in FINLAND?",,DEFENSE,FINLAND,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BURKINA FASO?",,DEFENSE,BURKINA FASO,Ministry of National Defense and Veterans Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NEW ZEALAND?",,DEFENSE,NEW ZEALAND,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AFGHANISTAN?",,DEFENSE,AFGHANISTAN,Ministry of Defense of Afghanistan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SLOVAKIA?",,DEFENSE,SLOVAKIA,Ministry of Defence of the Slovak Republic,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GABON?",,DEFENSE,GABON,Ministry of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NETHERLANDS?",,DEFENSE,NETHERLANDS,Ministry of Defence (Netherlands),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in URUGUAY?",,DEFENSE,URUGUAY,Ministry of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CABO VERDE?",,DEFENSE,CABO VERDE,Ministry of National Defense of Cape Verde,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in FRANCE?",,DEFENSE,FRANCE,Ministry of the Armed Forces (Ministère des Armées),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in VANUATU?",,DEFENSE,VANUATU,Ministry of Internal Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CANADA?",,DEFENSE,CANADA,Department of National Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LIBERIA?",,DEFENSE,LIBERIA,Ministry of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NORTH MACEDONIA?",,DEFENSE,NORTH MACEDONIA,Ministry of Defence of North Macedonia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in YEMEN?",,DEFENSE,YEMEN,Ministry of Defense (Yemen),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in VIETNAM?",,DEFENSE,VIETNAM,Ministry of Defence (Bộ Quốc phòng),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NIGER?",,DEFENSE,NIGER,Ministry of National Defense of the Republic of Niger,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CAMEROON?",,DEFENSE,CAMEROON,Ministry of Defence (MINDEF),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GEORGIA?",,DEFENSE,GEORGIA,Ministry of Defence of Georgia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in VENEZUELA?",,DEFENSE,VENEZUELA,Ministry of the Popular Power for the Defense (Ministerio del Poder Popular para la Defensa),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOMALIA?",,DEFENSE,SOMALIA,Ministry of Defence of Somalia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GAMBIA?",,DEFENSE,GAMBIA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GERMANY?",,DEFENSE,GERMANY,Federal Ministry of Defence (Bundesministerium der Verteidigung),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LEBANON?",,DEFENSE,LEBANON,Ministry of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOLOMON  ISLANDS?",,DEFENSE,SOLOMON  ISLANDS,"Ministry of Police, National Security and Correctional Services",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LESOTHO?",,DEFENSE,LESOTHO,Ministry of Defence and National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NIGERIA?",,DEFENSE,NIGERIA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LIBYA?",,DEFENSE,LIBYA,Ministry of Defense of the Government of National Unity (GNU),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOUTH AFRICA?",,DEFENSE,SOUTH AFRICA,Department of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CAMBODIA?",,DEFENSE,CAMBODIA,Ministry of National Defence of Cambodia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LITHUANIA?",,DEFENSE,LITHUANIA,Ministry of National Defence Republic of Lithuania,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CHINA?",,DEFENSE,CHINA,Ministry of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SPAIN?",,DEFENSE,SPAIN,Ministry of Defence (Ministerio de Defensa) of Spain,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ZAMBIA?",,DEFENSE,ZAMBIA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in OMAN?",,DEFENSE,OMAN,Ministry of Defence (Oman),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CENTRAL AFRICAN REPUBLIC?",,DEFENSE,CENTRAL AFRICAN REPUBLIC,Ministry of National Defense and Reconstruction of the Army,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GHANA?",,DEFENSE,GHANA,Ministry of Defence (Ghana),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NORWAY?",,DEFENSE,NORWAY,Ministry of Defence (Norway),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ARGENTINA?",,DEFENSE,ARGENTINA,Ministry of Defense (Ministerio de Defensa) of Argentina,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PAKISTAN?",,DEFENSE,PAKISTAN,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ANGOLA?",,DEFENSE,ANGOLA,Ministry of National Defense of Angola,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in EGYPT?",,DEFENSE,EGYPT,Ministry of Defence and Military Production,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOUTH KOREA?",,DEFENSE,SOUTH KOREA,Ministry of National Defense of South Korea,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in COLOMBIA?",,DEFENSE,COLOMBIA,Ministry of National Defense (Ministerio de Defensa Nacional),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GREECE?",,DEFENSE,GREECE,Ministry of National Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LIECHTENSTEIN?",,DEFENSE,LIECHTENSTEIN,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ZIMBABWE?",,DEFENSE,ZIMBABWE,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOUTH SUDAN?",,DEFENSE,SOUTH SUDAN,Ministry of Defence and Veterans Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ANTIGUA AND BARBUDA?",,DEFENSE,ANTIGUA AND BARBUDA,"Ministry of Legal Affairs, Public Safety, Immigration and Labour",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GUINEA-BISSAU?",,DEFENSE,GUINEA-BISSAU,Ministry of National Defense (Ministério da Defesa Nacional),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MADAGASCAR?",,DEFENSE,MADAGASCAR,Ministry of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PALAU?",,DEFENSE,PALAU,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALAYSIA?",,DEFENSE,MALAYSIA,Ministry of Defence Malaysia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CÔTE D'IVOIRE?",,DEFENSE,CÔTE D'IVOIRE,Ministère de la Défense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALAWI?",,DEFENSE,MALAWI,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SWEDEN?",,DEFENSE,SWEDEN,Ministry of Defence (Försvarsdepartementet),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PAPUA NEW GUINEA?",,DEFENSE,PAPUA NEW GUINEA,Department of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SUDAN?",,DEFENSE,SUDAN,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GUINEA?",,DEFENSE,GUINEA,Ministry of National Defense of Guinea,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AUSTRALIA?",,DEFENSE,AUSTRALIA,Department of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in COSTA RICA?",,DEFENSE,COSTA RICA,Ministry of Public Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PARAGUAY?",,DEFENSE,PARAGUAY,Ministry of National Defense of Paraguay,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in COMOROS?",,DEFENSE,COMOROS,Ministère de la Défense Nationale (Ministry of National Defense),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SURINAME?",,DEFENSE,SURINAME,Ministry of Defence of Suriname,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GRENADA?",,DEFENSE,GRENADA,"Ministry of National Security, Home Affairs, Public Administration, Information and Disaster Management",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PANAMA?",,DEFENSE,PANAMA,Ministry of Public Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CONGO?",,DEFENSE,CONGO,Ministry of Defence and Veterans,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SRI LANKA?",,DEFENSE,SRI LANKA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GUATEMALA?",,DEFENSE,GUATEMALA,Ministry of National Defense (Ministerio de la Defensa de la Nación),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LUXEMBOURG?",,DEFENSE,LUXEMBOURG,Ministry of Foreign and European Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in HUNGARY?",,DEFENSE,HUNGARY,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALI?",,DEFENSE,MALI,Ministry of Defense and Veterans Affairs (Ministère de la Défense et des Anciens Combattants),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALDIVES?",,DEFENSE,MALDIVES,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in POLAND?",,DEFENSE,POLAND,Ministry of National Defence of Poland,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CROATIA?",,DEFENSE,CROATIA,Ministry of Defence of the Republic of Croatia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in HONDURAS?",,DEFENSE,HONDURAS,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AZERBAIJAN?",,DEFENSE,AZERBAIJAN,Ministry of Defence of Azerbaijan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GUYANA?",,DEFENSE,GUYANA,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in HAITI?",,DEFENSE,HAITI,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SYRIA?",,DEFENSE,SYRIA,Ministry of Defense of Syria,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PERU?",,DEFENSE,PERU,Ministry of Defense of Peru,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CUBA?",,DEFENSE,CUBA,Ministry of the Revolutionary Armed Forces (MINFAR),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALTA?",,DEFENSE,MALTA,Minister for Defence within the Office of the Prime Minister of Malta,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AUSTRIA?",,DEFENSE,AUSTRIA,Federal Ministry of Defence (Bundesministerium für Landesverteidigung),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ALBANIA?",,DEFENSE,ALBANIA,Ministry of Defence (Ministria e Mbrojtjes),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CYPRUS?",,DEFENSE,CYPRUS,Ministry of Defence of the Republic of Cyprus,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SWITZERLAND?",,DEFENSE,SWITZERLAND,"Federal Department of Defence, Civil Protection and Sport (DDPS)",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BAHAMAS (THE)?",,DEFENSE,BAHAMAS (THE),Ministry of National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TAJIKISTAN?",,DEFENSE,TAJIKISTAN,Ministry of Defence of the Republic of Tajikistan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PHILIPPINES?",,DEFENSE,PHILIPPINES,Department of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MAURITIUS?",,DEFENSE,MAURITIUS,"Ministry of Defence, Home Affairs and External Communications",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ICELAND?",,DEFENSE,ICELAND,Ministry for Foreign Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TIMOR-LESTE?",,DEFENSE,TIMOR-LESTE,Ministry of Defense of Timor-Leste,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA?",,DEFENSE,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,Ministry of National Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DEMOCRATIC REPUBLIC OF THE CONGO?",,DEFENSE,DEMOCRATIC REPUBLIC OF THE CONGO,Ministry of Defence and Veterans Affairs of the Democratic Republic of the Congo,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MARSHALL ISLANDS?",,DEFENSE,MARSHALL ISLANDS,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TANZANIA?",,DEFENSE,TANZANIA,Ministry of Defence and National Service,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MEXICO?",,DEFENSE,MEXICO,Secretaría de la Defensa Nacional (SEDENA),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in INDONESIA?",,DEFENSE,INDONESIA,Ministry of Defense of the Republic of Indonesia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ROMANIA?",,DEFENSE,ROMANIA,Ministry of National Defence (Ministerul Apărării Naționale),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CZECH REPUBLIC?",,DEFENSE,CZECH REPUBLIC,Ministry of Defence of the Czech Republic,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BANGLADESH?",,DEFENSE,BANGLADESH,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ALGERIA?",,DEFENSE,ALGERIA,Ministry of National Defense (Algeria),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PORTUGAL?",,DEFENSE,PORTUGAL,Ministry of National Defence (Ministério da Defesa Nacional),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BARBADOS?",,DEFENSE,BARBADOS,Prime Minister's Office,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MAURITANIA?",,DEFENSE,MAURITANIA,Ministère de la Défense Nationale,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in QATAR?",,DEFENSE,QATAR,Ministry of State for Defence Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BAHRAIN?",,DEFENSE,BAHRAIN,Ministry of Defence Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in THAILAND?",,DEFENSE,THAILAND,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in INDIA?",,DEFENSE,INDIA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TOGO?",,DEFENSE,TOGO,Ministry of Armed Forces (Ministère des Forces Armées) of Togo,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in IRAQ?",,DEFENSE,IRAQ,Ministry of Defence (Iraq),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TRINIDAD AND TOBAGO?",,DEFENSE,TRINIDAD AND TOBAGO,Ministry of National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in IRELAND?",,DEFENSE,IRELAND,Department of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TONGA?",,DEFENSE,TONGA,Ministry for His Majesty's Armed Forces,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MICRONESIA?",,DEFENSE,MICRONESIA,Department of Justice,ConfidenceLevel.MEDIUM
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in IRAN?",,DEFENSE,IRAN,Ministry of Defence and Armed Forces Logistics (MODAFL),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONACO?",,DEFENSE,MONACO,Ministry of Interior,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DJIBOUTI?",,DEFENSE,DJIBOUTI,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELARUS?",,DEFENSE,BELARUS,Ministry of Defense of the Republic of Belarus,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MOLDOVA?",,DEFENSE,MOLDOVA,Ministry of Defense of the Republic of Moldova,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELGIUM?",,DEFENSE,BELGIUM,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in RUSSIA?",,DEFENSE,RUSSIA,Ministry of Defence of the Russian Federation,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DENMARK?",,DEFENSE,DENMARK,Ministry of Defence (Denmark),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in RWANDA?",,DEFENSE,RWANDA,Ministry of Defence (Rwanda),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TUNISIA?",,DEFENSE,TUNISIA,Ministry of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAINT KITTS AND NEVIS?",,DEFENSE,SAINT KITTS AND NEVIS,Ministry of National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DOMINICA?",,DEFENSE,DOMINICA,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAINT LUCIA?",,DEFENSE,SAINT LUCIA,"Ministry of Home Affairs, Crime Prevention, and Persons with Disabilities",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELIZE?",,DEFENSE,BELIZE,Ministry of National Defence and Border Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BENIN?",,DEFENSE,BENIN,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONTENEGRO?",,DEFENSE,MONTENEGRO,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TURKEY?",,DEFENSE,TURKEY,Ministry of National Defense (Millî Savunma Bakanlığı),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BOLIVIA?",,DEFENSE,BOLIVIA,Ministry of Defense of Bolivia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ITALY?",,DEFENSE,ITALY,Ministry of Defence (Ministero della Difesa),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DOMINICAN REPUBLIC?",,DEFENSE,DOMINICAN REPUBLIC,Ministry of Defense of the Dominican Republic,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ECUADOR?",,DEFENSE,ECUADOR,Ministry of National Defense of the Republic of Ecuador,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAMOA?",,DEFENSE,SAMOA,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONGOLIA?",,DEFENSE,MONGOLIA,Ministry of Defence of Mongolia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ISRAEL?",,DEFENSE,ISRAEL,Ministry of Defense of Israel,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAN MARINO?",,DEFENSE,SAN MARINO,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAINT VINCENT AND THE GRENADINES?",,DEFENSE,SAINT VINCENT AND THE GRENADINES,"Ministry of National Security, Air and Sea Port Development",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BHUTAN?",,DEFENSE,BHUTAN,Ministry of Home and Cultural Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in JAMAICA?",,DEFENSE,JAMAICA,Ministry of National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TURKMENISTAN?",,DEFENSE,TURKMENISTAN,Ministry of Defense of Turkmenistan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in EGYPT?",,DEFENSE,EGYPT,Ministry of Defence and Military Production,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BOSNIA AND HERZEGOVINA?",,DEFENSE,BOSNIA AND HERZEGOVINA,Ministry of Defence of Bosnia and Herzegovina,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONTENEGRO?",,DEFENSE,MONTENEGRO,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in JAMAICA?",,DEFENSE,JAMAICA,Ministry of National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAN MARINO?",,DEFENSE,SAN MARINO,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TURKMENISTAN?",,DEFENSE,TURKMENISTAN,Ministry of Defense of Turkmenistan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BOTSWANA?",,DEFENSE,BOTSWANA,"Ministry of Defence, Justice and Security",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in EL SALVADOR?",,DEFENSE,EL SALVADOR,Ministerio de la Defensa Nacional,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MOROCCO?",,DEFENSE,MOROCCO,Minister Delegate to the Head of Government in charge of the Administration of National Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in JAPAN?",,DEFENSE,JAPAN,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAO TOME & PRINCIPE?",,DEFENSE,SAO TOME & PRINCIPE,Ministry of Defense and Internal Order,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TUVALU?",,DEFENSE,TUVALU,"Ministry of Justice, Communication & Foreign Affairs",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BRAZIL?",,DEFENSE,BRAZIL,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in EQUATORIAL GUINEA?",,DEFENSE,EQUATORIAL GUINEA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in JORDAN?",,DEFENSE,JORDAN,Ministry of Defence (Jordan),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAUDI ARABIA?",,DEFENSE,SAUDI ARABIA,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MOZAMBIQUE?",,DEFENSE,MOZAMBIQUE,Ministry of National Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UGANDA?",,DEFENSE,UGANDA,Ministry of Defence and Veteran Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BRUNEI?",,DEFENSE,BRUNEI,Ministry of Defence (Brunei Darussalam),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ERITREA?",,DEFENSE,ERITREA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KAZAKHSTAN?",,DEFENSE,KAZAKHSTAN,Ministry of Defense of the Republic of Kazakhstan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ERITREA?",,DEFENSE,ERITREA,Ministry of Defence of Eritrea,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MYANMAR?",,DEFENSE,MYANMAR,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SENEGAL?",,DEFENSE,SENEGAL,Ministère des Forces Armées,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KAZAKHSTAN?",,DEFENSE,KAZAKHSTAN,Ministry of Defense of the Republic of Kazakhstan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SENEGAL?",,DEFENSE,SENEGAL,Ministry of Armed Forces,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UKRAINE?",,DEFENSE,UKRAINE,Ministry of Defense of Ukraine,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CHAD?",,DEFENSE,CHAD,Ministry of Defense of Chad,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CHILE?",,DEFENSE,CHILE,Ministry of National Defense of Chile,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BAHAMAS (THE)?",,DEFENSE,BAHAMAS (THE),Ministry of National Security,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KENYA?",,DEFENSE,KENYA,Ministry of Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ESTONIA?",,DEFENSE,ESTONIA,Ministry of Defence of the Republic of Estonia,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SERBIA?",,DEFENSE,SERBIA,Ministry of Defence of the Republic of Serbia,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NAMIBIA?",,DEFENSE,NAMIBIA,Ministry of Defence and Veteran Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SERBIA?",,DEFENSE,SERBIA,Ministry of Defence (Ministarstvo odbrane),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AZERBAIJAN?",,DEFENSE,AZERBAIJAN,Ministry of Defence of Azerbaijan,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UNITED ARAB EMIRATES?",,DEFENSE,UNITED ARAB EMIRATES,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BULGARIA?",,DEFENSE,BULGARIA,Ministry of Defense of Bulgaria,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ESWATINI?",,DEFENSE,ESWATINI,Ministry of National Defence and Security of the Kingdom of Eswatini,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ESWATINI?",,DEFENSE,ESWATINI,Ministry of Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KIRIBATI?",,DEFENSE,KIRIBATI,NONE,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SEYCHELLES?",,DEFENSE,SEYCHELLES,Ministry of Homeland Security and Civil Affairs,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NAURU?",,DEFENSE,NAURU,NONE,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AUSTRALIA?",,DEFENSE,AUSTRALIA,Department of Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UNITED KINGDOM?",,DEFENSE,UNITED KINGDOM,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SEYCHELLES?",,DEFENSE,SEYCHELLES,Office of the President of Seychelles,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BURKINA FASO?",,DEFENSE,BURKINA FASO,Ministry of National Defense and Veterans Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ETHIOPIA?",,DEFENSE,ETHIOPIA,Ministry of Defense (Ethiopia),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ETHIOPIA?",,DEFENSE,ETHIOPIA,Ministry of Defense (የመከላከያ ሚኒስቴር),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CENTRAL AFRICAN REPUBLIC?",,DEFENSE,CENTRAL AFRICAN REPUBLIC,Ministry of National Defense and Reconstruction of the Army,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KUWAIT?",,DEFENSE,KUWAIT,Ministry of Defense (Kuwait),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NEPAL?",,DEFENSE,NEPAL,Ministry of Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SIERRA LEONE?",,DEFENSE,SIERRA LEONE,Ministry of Defence and National Security,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UNITED STATES?",,DEFENSE,UNITED STATES,United States Department of Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CAMBODIA?",,DEFENSE,CAMBODIA,Ministry of National Defense (Cambodia),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AUSTRIA?",,DEFENSE,AUSTRIA,Federal Ministry of Defence (Bundesministerium für Landesverteidigung),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KYRGYZSTAN?",,DEFENSE,KYRGYZSTAN,Ministry of Defense of the Kyrgyz Republic,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in FIJI?",,DEFENSE,FIJI,Ministry of Defence and National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BURUNDI?",,DEFENSE,BURUNDI,Ministry of National Defense and Veterans Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NETHERLANDS?",,DEFENSE,NETHERLANDS,Ministry of Defence (Netherlands),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in KYRGYZSTAN?",,DEFENSE,KYRGYZSTAN,Ministry of Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NETHERLANDS?",,DEFENSE,NETHERLANDS,Ministry of Defence (Ministerie van Defensie),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SINGAPORE?",,DEFENSE,SINGAPORE,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in URUGUAY?",,DEFENSE,URUGUAY,Ministry of National Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ARMENIA?",,DEFENSE,ARMENIA,Ministry of Defense of the Republic of Armenia,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in URUGUAY?",,DEFENSE,URUGUAY,Ministry of National Defense (Ministerio de Defensa Nacional),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CANADA?",,DEFENSE,CANADA,Department of National Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in FINLAND?",,DEFENSE,FINLAND,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CABO VERDE?",,DEFENSE,CABO VERDE,Ministry of National Defense of Cape Verde,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LAOS?",,DEFENSE,LAOS,Ministry of Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LAOS?",,DEFENSE,LAOS,Ministry of National Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NEW ZEALAND?",,DEFENSE,NEW ZEALAND,Ministry of Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SLOVAKIA?",,DEFENSE,SLOVAKIA,Ministry of Defence of the Slovak Republic,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UZBEKISTAN?",,DEFENSE,UZBEKISTAN,Ministry of Defense of the Republic of Uzbekistan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in COLOMBIA?",,DEFENSE,COLOMBIA,Ministry of National Defense of Colombia,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in FRANCE?",,DEFENSE,FRANCE,Ministry of the Armed Forces (Ministère des Armées),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CAMBODIA?",,DEFENSE,CAMBODIA,Ministry of National Defence of Cambodia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NICARAGUA?",,DEFENSE,NICARAGUA,"Ministry of Defense (Ministerio de Defensa, MIDEF)",ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LATVIA?",,DEFENSE,LATVIA,Ministry of Defence of the Republic of Latvia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SLOVENIA?",,DEFENSE,SLOVENIA,Ministry of Defence of Slovenia,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NICARAGUA?",,DEFENSE,NICARAGUA,"Ministry of Defense (Ministerio de Defensa, MIDEF)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SLOVENIA?",,DEFENSE,SLOVENIA,Ministry of Defence of the Republic of Slovenia,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in VANUATU?",,DEFENSE,VANUATU,Ministry of Internal Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CAMEROON?",,DEFENSE,CAMEROON,Ministry of Defence (MINDEF),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ANGOLA?",,DEFENSE,ANGOLA,Ministry of National Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CABO VERDE?",,DEFENSE,CABO VERDE,Ministry of National Defense,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GABON?",,DEFENSE,GABON,Ministry of National Defense,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LEBANON?",,DEFENSE,LEBANON,Ministry of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NIGER?",,DEFENSE,NIGER,Ministry of National Defense of the Republic of Niger,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NIGER?",,DEFENSE,NIGER,Ministry of National Defense,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOLOMON  ISLANDS?",,DEFENSE,SOLOMON  ISLANDS,"Ministry of Police, National Security and Correctional Services",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AFGHANISTAN?",,DEFENSE,AFGHANISTAN,Ministry of Defense of Afghanistan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in VENEZUELA?",,DEFENSE,VENEZUELA,Ministry of the Popular Power for the Defense (Ministerio del Poder Popular para la Defensa),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CANADA?",,DEFENSE,CANADA,Department of National Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in VENEZUELA?",,DEFENSE,VENEZUELA,Ministerio del Poder Popular para la Defensa,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ANTIGUA AND BARBUDA?",,DEFENSE,ANTIGUA AND BARBUDA,"Ministry of Legal Affairs, Public Safety, Immigration and Labour",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CAMEROON?",,DEFENSE,CAMEROON,Ministry of Defence (MINDEF),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GAMBIA?",,DEFENSE,GAMBIA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LESOTHO?",,DEFENSE,LESOTHO,Ministry of Defence and National Security,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NIGERIA?",,DEFENSE,NIGERIA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in VIETNAM?",,DEFENSE,VIETNAM,Ministry of Defence (Bộ Quốc phòng),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOMALIA?",,DEFENSE,SOMALIA,Ministry of Defence of Somalia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ALBANIA?",,DEFENSE,ALBANIA,Ministry of Defence (Ministria e Mbrojtjes),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CENTRAL AFRICAN REPUBLIC?",,DEFENSE,CENTRAL AFRICAN REPUBLIC,Ministry of National Defense and Reconstruction of the Army,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LESOTHO?",,DEFENSE,LESOTHO,Ministry of Defence and National Security,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in VIETNAM?",,DEFENSE,VIETNAM,Ministry of National Defence (Vietnam),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOMALIA?",,DEFENSE,SOMALIA,Ministry of Defence (Somalia),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ANDORRA?",,DEFENSE,ANDORRA,NONE,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BURUNDI?",,DEFENSE,BURUNDI,Ministère de la Défense Nationale et des Anciens Combattants du Burundi,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GEORGIA?",,DEFENSE,GEORGIA,Ministry of Defence of Georgia,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LIBERIA?",,DEFENSE,LIBERIA,Ministry of National Defense,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NORTH MACEDONIA?",,DEFENSE,NORTH MACEDONIA,Ministry of Defence of North Macedonia,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOUTH AFRICA?",,DEFENSE,SOUTH AFRICA,Department of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in YEMEN?",,DEFENSE,YEMEN,Ministry of Defense (Yemen),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ALGERIA?",,DEFENSE,ALGERIA,Ministry of National Defense (Algeria),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CHILE?",,DEFENSE,CHILE,Ministry of National Defense of Chile (Ministerio de Defensa Nacional),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LIBYA?",,DEFENSE,LIBYA,Ministry of Defense of the Government of National Unity (GNU),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in YEMEN?",,DEFENSE,YEMEN,Ministry of Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BULGARIA?",,DEFENSE,BULGARIA,Ministry of Defence of Bulgaria,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GERMANY?",,DEFENSE,GERMANY,Federal Ministry of Defence (Bundesministerium der Verteidigung),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LIBYA?",,DEFENSE,LIBYA,Libyan Ministry of Defense,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in NORWAY?",,DEFENSE,NORWAY,Ministry of Defence (Norway),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOUTH KOREA?",,DEFENSE,SOUTH KOREA,Ministry of National Defense of South Korea,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ZAMBIA?",,DEFENSE,ZAMBIA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ANDORRA?",,DEFENSE,ANDORRA,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CHINA?",,DEFENSE,CHINA,Ministry of National Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BURKINA FASO?",,DEFENSE,BURKINA FASO,Ministry of National Defense and Veterans Affairs,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CÔTE D'IVOIRE?",,DEFENSE,CÔTE D'IVOIRE,Ministère de la Défense,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GHANA?",,DEFENSE,GHANA,Ministry of Defence (Ghana),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LIECHTENSTEIN?",,DEFENSE,LIECHTENSTEIN,NONE,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in OMAN?",,DEFENSE,OMAN,Ministry of Defence (Oman),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SOUTH SUDAN?",,DEFENSE,SOUTH SUDAN,Ministry of Defence and Veterans Affairs,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GREECE?",,DEFENSE,GREECE,Ministry of National Defence (Greece),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ZIMBABWE?",,DEFENSE,ZIMBABWE,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ANGOLA?",,DEFENSE,ANGOLA,Ministry of National Defense of Angola,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GREECE?",,DEFENSE,GREECE,Ministry of National Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in COLOMBIA?",,DEFENSE,COLOMBIA,Ministry of National Defense (Ministerio de Defensa Nacional),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LITHUANIA?",,DEFENSE,LITHUANIA,Ministry of National Defence Republic of Lithuania,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SPAIN?",,DEFENSE,SPAIN,Ministry of Defence (Ministerio de Defensa) of Spain,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CUBA?",,DEFENSE,CUBA,"Ministry of the Revolutionary Armed Forces (Ministerio de las Fuerzas Armadas Revolucionarias, MINFAR)",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LITHUANIA?",,DEFENSE,LITHUANIA,Ministry of National Defence of the Republic of Lithuania,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PAKISTAN?",,DEFENSE,PAKISTAN,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in COMOROS?",,DEFENSE,COMOROS,Ministère de la Défense Nationale (Ministry of National Defense),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ANTIGUA AND BARBUDA?",,DEFENSE,ANTIGUA AND BARBUDA,"Ministry of Legal Affairs, Public Safety, Immigration and Labour",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LUXEMBOURG?",,DEFENSE,LUXEMBOURG,Ministry of Foreign and European Affairs,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SPAIN?",,DEFENSE,SPAIN,Ministry of Defence (Ministerio de Defensa),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in LUXEMBOURG?",,DEFENSE,LUXEMBOURG,"Ministry of Foreign and European Affairs, Defence, Development Cooperation and Foreign Trade",ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GRENADA?",,DEFENSE,GRENADA,"Ministry of National Security, Home Affairs, Public Administration, Information and Disaster Management",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PALAU?",,DEFENSE,PALAU,NONE,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SRI LANKA?",,DEFENSE,SRI LANKA,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CONGO?",,DEFENSE,CONGO,Ministry of Defence and Veterans,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ARGENTINA?",,DEFENSE,ARGENTINA,Ministry of Defense (Ministerio de Defensa) of Argentina,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GUATEMALA?",,DEFENSE,GUATEMALA,Ministry of National Defense (Ministerio de la Defensa de la Nación),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MADAGASCAR?",,DEFENSE,MADAGASCAR,Ministry of National Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PALAU?",,DEFENSE,PALAU,NONE,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GUATEMALA?",,DEFENSE,GUATEMALA,Ministry of National Defence (Ministerio de la Defensa de la Nación),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CHAD?",,DEFENSE,CHAD,Ministry of Defense of Chad,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PANAMA?",,DEFENSE,PANAMA,Ministry of Public Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SUDAN?",,DEFENSE,SUDAN,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ARMENIA?",,DEFENSE,ARMENIA,Ministry of Defense of the Republic of Armenia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in COSTA RICA?",,DEFENSE,COSTA RICA,Ministry of Public Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GUINEA?",,DEFENSE,GUINEA,Ministry of National Defense of Guinea,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PAPUA NEW GUINEA?",,DEFENSE,PAPUA NEW GUINEA,Department of Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MADAGASCAR?",,DEFENSE,MADAGASCAR,Ministry of National Defense (Ministère de la Défense Nationale),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SUDAN?",,DEFENSE,SUDAN,Ministry of Defense - Sudan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GUINEA?",,DEFENSE,GUINEA,Ministère de la Défense Nationale (Ministry of National Defense),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALAWI?",,DEFENSE,MALAWI,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AUSTRALIA?",,DEFENSE,AUSTRALIA,Department of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SURINAME?",,DEFENSE,SURINAME,Ministry of Defence of Suriname,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PAPUA NEW GUINEA?",,DEFENSE,PAPUA NEW GUINEA,Department of Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SURINAME?",,DEFENSE,SURINAME,Ministry of Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ALGERIA?",,DEFENSE,ALGERIA,Ministry of National Defense (Algeria),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BOLIVIA?",,DEFENSE,BOLIVIA,Ministry of Defense,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GUINEA-BISSAU?",,DEFENSE,GUINEA-BISSAU,Ministry of National Defense (Ministério da Defesa Nacional),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CÔTE D'IVOIRE?",,DEFENSE,CÔTE D'IVOIRE,Ministère de la Défense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in COSTA RICA?",,DEFENSE,COSTA RICA,Ministry of Public Security,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PARAGUAY?",,DEFENSE,PARAGUAY,Ministry of National Defense,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALAYSIA?",,DEFENSE,MALAYSIA,Ministry of Defence Malaysia,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SWEDEN?",,DEFENSE,SWEDEN,Ministry of Defence (Försvarsdepartementet),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PARAGUAY?",,DEFENSE,PARAGUAY,Ministry of National Defense of Paraguay,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AUSTRIA?",,DEFENSE,AUSTRIA,Federal Ministry of Defence (Bundesministerium für Landesverteidigung),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CROATIA?",,DEFENSE,CROATIA,Ministry of Defence of the Republic of Croatia,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ALBANIA?",,DEFENSE,ALBANIA,Ministry of Defence (Albania),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BRUNEI?",,DEFENSE,BRUNEI,Ministry of Defence Brunei Darussalam,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALDIVES?",,DEFENSE,MALDIVES,Ministry of Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in GUYANA?",,DEFENSE,GUYANA,NONE,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PERU?",,DEFENSE,PERU,Ministry of Defense of Peru,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALDIVES?",,DEFENSE,MALDIVES,Ministry of Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SWITZERLAND?",,DEFENSE,SWITZERLAND,"Federal Department of Defence, Civil Protection and Sport (DDPS)",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AZERBAIJAN?",,DEFENSE,AZERBAIJAN,Ministry of Defence of Azerbaijan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CUBA?",,DEFENSE,CUBA,Ministry of the Revolutionary Armed Forces (MINFAR),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in HAITI?",,DEFENSE,HAITI,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALI?",,DEFENSE,MALI,Ministry of Defense and Veterans Affairs (Ministère de la Défense et des Anciens Combattants),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CONGO?",,DEFENSE,CONGO,Ministry of Defence and Veterans of the Democratic Republic of the Congo,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BOSNIA AND HERZEGOVINA?",,DEFENSE,BOSNIA AND HERZEGOVINA,Ministry of Defence of Bosnia and Herzegovina,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALI?",,DEFENSE,MALI,Ministry of Defense and Veterans Affairs,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PHILIPPINES?",,DEFENSE,PHILIPPINES,Department of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BAHAMAS (THE)?",,DEFENSE,BAHAMAS (THE),Ministry of National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SYRIA?",,DEFENSE,SYRIA,Ministry of Defense of Syria,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in HONDURAS?",,DEFENSE,HONDURAS,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CYPRUS?",,DEFENSE,CYPRUS,Ministry of Defence of the Republic of Cyprus,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in HAITI?",,DEFENSE,HAITI,Ministry of Defense of Haiti,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SYRIA?",,DEFENSE,SYRIA,Ministry of Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in AFGHANISTAN?",,DEFENSE,AFGHANISTAN,Ministry of Defense (Afghanistan),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BOTSWANA?",,DEFENSE,BOTSWANA,Ministry of Defence and Security,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in HONDURAS?",,DEFENSE,HONDURAS,Ministry of Defense of Honduras,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in POLAND?",,DEFENSE,POLAND,Ministry of National Defence of Poland,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALTA?",,DEFENSE,MALTA,Minister for Defence within the Office of the Prime Minister of Malta,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BAHRAIN?",,DEFENSE,BAHRAIN,Ministry of Defence Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TAJIKISTAN?",,DEFENSE,TAJIKISTAN,Ministry of Defence of the Republic of Tajikistan,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CZECH REPUBLIC?",,DEFENSE,CZECH REPUBLIC,Ministry of Defence of the Czech Republic,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MALTA?",,DEFENSE,MALTA,Office of the Prime Minister (Defence Matters Directorate),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in HUNGARY?",,DEFENSE,HUNGARY,Ministry of Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TAJIKISTAN?",,DEFENSE,TAJIKISTAN,Ministry of Defence of the Republic of Tajikistan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CYPRUS?",,DEFENSE,CYPRUS,Ministry of Defence of Cyprus,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BRAZIL?",,DEFENSE,BRAZIL,Ministry of Defense,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MARSHALL ISLANDS?",,DEFENSE,MARSHALL ISLANDS,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PORTUGAL?",,DEFENSE,PORTUGAL,Ministry of National Defence (Ministério da Defesa Nacional),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TANZANIA?",,DEFENSE,TANZANIA,Ministry of Defence and National Service,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA?",,DEFENSE,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,Ministry of National Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BANGLADESH?",,DEFENSE,BANGLADESH,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MAURITANIA?",,DEFENSE,MAURITANIA,Ministère de la Défense Nationale,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in PORTUGAL?",,DEFENSE,PORTUGAL,Ministry of National Defence (Ministério da Defesa Nacional),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BENIN?",,DEFENSE,BENIN,Ministry Delegate to the Presidency of the Republic in charge of National Defense (Ministère Délégué à la Présidence de la République chargé de la Défense Nationale),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CROATIA?",,DEFENSE,CROATIA,Ministry of Defence of the Republic of Croatia,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ICELAND?",,DEFENSE,ICELAND,Ministry for Foreign Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in QATAR?",,DEFENSE,QATAR,Ministry of State for Defence Affairs,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in QATAR?",,DEFENSE,QATAR,Ministry of Defence of Qatar,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MAURITANIA?",,DEFENSE,MAURITANIA,Ministry of Defense and Veterans Affairs & Martyrs’ Families,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in THAILAND?",,DEFENSE,THAILAND,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BARBADOS?",,DEFENSE,BARBADOS,Prime Minister's Office,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DEMOCRATIC REPUBLIC OF THE CONGO?",,DEFENSE,DEMOCRATIC REPUBLIC OF THE CONGO,Ministry of Defence and Veterans Affairs of the Democratic Republic of the Congo,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in CZECH REPUBLIC?",,DEFENSE,CZECH REPUBLIC,Ministry of Defence of the Czech Republic,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in INDIA?",,DEFENSE,INDIA,Ministry of Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MAURITIUS?",,DEFENSE,MAURITIUS,"Ministry of Defence, Home Affairs and External Communications",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TIMOR-LESTE?",,DEFENSE,TIMOR-LESTE,Ministry of Defense of Timor-Leste,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ROMANIA?",,DEFENSE,ROMANIA,Ministry of National Defence (Ministerul Apărării Naționale),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DENMARK?",,DEFENSE,DENMARK,Ministry of Defence (Denmark),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELARUS?",,DEFENSE,BELARUS,Ministry of Defense of the Republic of Belarus,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in INDONESIA?",,DEFENSE,INDONESIA,Ministry of Defense of the Republic of Indonesia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MEXICO?",,DEFENSE,MEXICO,Secretaría de la Defensa Nacional (SEDENA),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TOGO?",,DEFENSE,TOGO,Ministry of Armed Forces (Ministère des Forces Armées) of Togo,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ROMANIA?",,DEFENSE,ROMANIA,Ministry of National Defense (Ministerul Apării Naționale),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TIMOR-LESTE?",,DEFENSE,TIMOR-LESTE,Ministry of Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BHUTAN?",,DEFENSE,BHUTAN,Ministry of Home Affairs,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA?",,DEFENSE,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,Ministry of the People’s Armed Forces,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in INDONESIA?",,DEFENSE,INDONESIA,Ministry of Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MEXICO?",,DEFENSE,MEXICO,Secretariat of National Defense (Secretaría de la Defensa Nacional - SEDENA),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in RUSSIA?",,DEFENSE,RUSSIA,Ministry of Defence of the Russian Federation,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DJIBOUTI?",,DEFENSE,DJIBOUTI,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELGIUM?",,DEFENSE,BELGIUM,Ministry of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in IRAN?",,DEFENSE,IRAN,Ministry of Defence and Armed Forces Logistics (MODAFL),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MICRONESIA?",,DEFENSE,MICRONESIA,Department of Justice,ConfidenceLevel.MEDIUM
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in RWANDA?",,DEFENSE,RWANDA,Ministry of Defence (Rwanda),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TONGA?",,DEFENSE,TONGA,Ministry for His Majesty's Armed Forces,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TOGO?",,DEFENSE,TOGO,Ministry of Armed Forces (Ministère des Forces Armées),ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELIZE?",,DEFENSE,BELIZE,Ministry of National Defence and Border Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DOMINICA?",,DEFENSE,DOMINICA,NONE,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MOLDOVA?",,DEFENSE,MOLDOVA,Ministry of Defense of the Republic of Moldova,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DEMOCRATIC REPUBLIC OF THE CONGO?",,DEFENSE,DEMOCRATIC REPUBLIC OF THE CONGO,Ministry of Defence and Veterans,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in IRAN?",,DEFENSE,IRAN,Ministry of Defense and Armed Forces Logistics (MODAFL),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MICRONESIA?",,DEFENSE,MICRONESIA,NONE,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in RWANDA?",,DEFENSE,RWANDA,Ministry of Defence (Rwanda),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TONGA?",,DEFENSE,TONGA,His Majesty's Armed Forces (HMAF) under the Minister for His Majesty's Armed Forces,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELGIUM?",,DEFENSE,BELGIUM,Ministry of Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DENMARK?",,DEFENSE,DENMARK,Ministry of Defence (Denmark),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in EL SALVADOR?",,DEFENSE,EL SALVADOR,Ministerio de la Defensa Nacional,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in IRAQ?",,DEFENSE,IRAQ,Ministry of Defence (Iraq),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MOLDOVA?",,DEFENSE,MOLDOVA,Ministry of Defense of the Republic of Moldova,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TRINIDAD AND TOBAGO?",,DEFENSE,TRINIDAD AND TOBAGO,Ministry of National Security,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAINT KITTS AND NEVIS?",,DEFENSE,SAINT KITTS AND NEVIS,Ministry of National Security,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BENIN?",,DEFENSE,BENIN,Ministry of Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DOMINICAN REPUBLIC?",,DEFENSE,DOMINICAN REPUBLIC,Ministry of Defense of the Dominican Republic,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DJIBOUTI?",,DEFENSE,DJIBOUTI,Ministry of Defence of Djibouti,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in EQUATORIAL GUINEA?",,DEFENSE,EQUATORIAL GUINEA,Ministry of Defence,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in IRELAND?",,DEFENSE,IRELAND,Department of Defence,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONACO?",,DEFENSE,MONACO,Ministry of Interior,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAINT LUCIA?",,DEFENSE,SAINT LUCIA,"Ministry of Home Affairs, Crime Prevention, and Persons with Disabilities",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TUNISIA?",,DEFENSE,TUNISIA,Ministry of National Defense,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BHUTAN?",,DEFENSE,BHUTAN,Ministry of Home and Cultural Affairs,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ECUADOR?",,DEFENSE,ECUADOR,Ministry of National Defense of the Republic of Ecuador,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ISRAEL?",,DEFENSE,ISRAEL,Ministry of Defense of Israel,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONGOLIA?",,DEFENSE,MONGOLIA,Ministry of Defence of Mongolia,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAINT LUCIA?",,DEFENSE,SAINT LUCIA,"Ministry of Home Affairs, Crime Prevention, and National Security",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONACO?",,DEFENSE,MONACO,Ministry of the Interior,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TUNISIA?",,DEFENSE,TUNISIA,Ministry of National Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BELARUS?",,DEFENSE,BELARUS,Ministry of Defense of the Republic of Belarus,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ISRAEL?",,DEFENSE,ISRAEL,Israeli Ministry of Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DOMINICA?",,DEFENSE,DOMINICA,NONE,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONGOLIA?",,DEFENSE,MONGOLIA,Ministry of Defense of Mongolia,ConfidenceLevel.HIGH
 "What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAINT VINCENT AND THE GRENADINES?",,DEFENSE,SAINT VINCENT AND THE GRENADINES,"Ministry of National Security, Air and Sea Port Development",ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TURKEY?",,DEFENSE,TURKEY,Ministry of National Defense (Millî Savunma Bakanlığı),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BOLIVIA?",,DEFENSE,BOLIVIA,Ministry of Defense of Bolivia,ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ITALY?",,DEFENSE,ITALY,Ministry of Defence (Ministero della Difesa),ConfidenceLevel.HIGH
-"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAMOA?",,DEFENSE,SAMOA,NONE,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TURKEY?",,DEFENSE,TURKEY,Ministry of National Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BARBADOS?",,DEFENSE,BARBADOS,Prime Minister's Office (Defence and Security Division),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in DOMINICAN REPUBLIC?",,DEFENSE,DOMINICAN REPUBLIC,Ministry of Defense of the Dominican Republic,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in COMOROS?",,DEFENSE,COMOROS,Ministry of the Interior and Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ITALY?",,DEFENSE,ITALY,Ministry of Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MONTENEGRO?",,DEFENSE,MONTENEGRO,Ministry of Defence of Montenegro,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAMOA?",,DEFENSE,SAMOA,Ministry of Police,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TURKMENISTAN?",,DEFENSE,TURKMENISTAN,Ministry of Defense of Turkmenistan,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ARGENTINA?",,DEFENSE,ARGENTINA,Ministry of Defense (Ministerio de Defensa),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in ECUADOR?",,DEFENSE,ECUADOR,Ministerio de Defensa Nacional (Ministry of National Defense),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MOROCCO?",,DEFENSE,MOROCCO,Minister Delegate to the Head of Government in charge of the Administration of National Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAN MARINO?",,DEFENSE,SAN MARINO,NONE,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in JAMAICA?",,DEFENSE,JAMAICA,Ministry of National Security,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BANGLADESH?",,DEFENSE,BANGLADESH,Ministry of Defence (Bangladesh),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in TUVALU?",,DEFENSE,TUVALU,"Ministry of Justice, Communication and Foreign Affairs",ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in JAPAN?",,DEFENSE,JAPAN,Ministry of Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in EGYPT?",,DEFENSE,EGYPT,Ministry of Defence and Military Production,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in MOZAMBIQUE?",,DEFENSE,MOZAMBIQUE,Ministry of National Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAO TOME & PRINCIPE?",,DEFENSE,SAO TOME & PRINCIPE,Ministry of Defense and Internal Order,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in UGANDA?",,DEFENSE,UGANDA,Ministry of Defence and Veteran Affairs (MODVA),ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in BAHRAIN?",,DEFENSE,BAHRAIN,Ministry of Defence,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in SAUDI ARABIA?",,DEFENSE,SAUDI ARABIA,Ministry of Defense,ConfidenceLevel.HIGH
+"What is the top-level state Organ (i.e., ministry/department/agency) responsible for DEFENSE in JORDAN?",,DEFENSE,JORDAN,Ministry of Defence of Jordan,ConfidenceLevel.HIGH
