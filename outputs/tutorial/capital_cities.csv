@@ -1,0 +1,6 @@
+question,error,country,capital_city,population,confidence
+What is the capital city of Japan? Please provide the capital name and estimated population.,,Japan,Tokyo,37036200,ConfidenceLevel.HIGH
+What is the capital city of Egypt? Please provide the capital name and estimated population.,,Egypt,Cairo,23074200,ConfidenceLevel.HIGH
+What is the capital city of Australia? Please provide the capital name and estimated population.,,Australia,Canberra,482986,ConfidenceLevel.HIGH
+What is the capital city of Brazil? Please provide the capital name and estimated population.,,Brazil,Brasília,4991000,ConfidenceLevel.HIGH
+What is the capital city of France? Please provide the capital name and estimated population.,,France,Paris,2087577,ConfidenceLevel.HIGH
